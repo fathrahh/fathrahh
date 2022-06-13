@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fathrahh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-🌱 I’m currently learning NextJs & Typescript
-📫 How to reach me: gazoon3@gmail.com
+🌱 I’m currently learning NextJs & Typescript\n
+📫 How to reach me: gazoon3@gmail.com\n
 ⚡ Fun fact I like typescript because it's blue
 

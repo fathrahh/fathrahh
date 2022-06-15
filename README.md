@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 class="background-color: 'black';color:'black`">Halooo Nama saya Muhammad Fathurrahman</h3> 
+### Halooo Nama saya Muhammad Fathurrahman
 ###### Biasa dikenal sebagai Fathur atau ijor
 <!--
 **fathrahh/fathrahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/fathrahh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathrahh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fathrahh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ijordev&theme=algolia"/>
 </a>
 
 - 🌱 I’m currently learning NextJs & Typescript

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Halooo Nama saya Muhammad Fathurrahman
+<h3 class="background-color: 'black';color:'black`">Halooo Nama saya Muhammad Fathurrahman</h3> 
 ###### Biasa dikenal sebagai Fathur atau ijor
 <!--
 **fathrahh/fathrahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

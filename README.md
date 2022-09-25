@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ijordev&theme=algolia"/>
 </a>
 
-- 🌱 I’m currently learning NextJs & Typescript
+- 🌱 I’m currently learning NextJs,Typescript, GraphQl, & SolidJs
 - 📫 How to reach me: gazoon3@gmail.com
 - ⚡ Fun fact I like typescript because it's blue
 
